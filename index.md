@@ -19,11 +19,14 @@ I love to code and play video games :+1:
     
 ## I am a sophomore at UCSD majoring in Computer Science
 
-At the moment, I am looking for a software engineering internship**
+**At the moment, I am looking for a software engineering internship**
 
-Come check out my [GitHub](https://github.com/Toggers)!
+Come check out my [GitHub](https://github.com/Toggers)! 
+It includes all of the projects I have done as a programmer.
 
-***I hope to become a great software engineer in the future!***
+***I hope to become a great software engineer at a small tech company in the future!***
+
+![image](sunset.jpg)
 
 
 ### I am currently taking CSE 110.
@@ -41,4 +44,3 @@ git status
 ```
 
 @github/support What do you think about my website?
-
