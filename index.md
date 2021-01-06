@@ -10,8 +10,8 @@ Some of my favorite foods include:
     - Alfredo 
     - Pesto
     
-*I once said*
-> I'm hungry
+*A quote I live by:*
+> You miss 100% of the shots you don't take.
 
 Someday, I might want to rename myself from \*Tommy\* to \*Thomas\*.
 
